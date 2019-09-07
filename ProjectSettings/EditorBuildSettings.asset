@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: bde9cc68260d120498a05b99943d76be
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: bf4db484e9827e24ca3cf693a29cfd56
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 8f60d232d08b0524fab2b3c98a93cbc9
+  - enabled: 1
+    path: Assets/Scenes/CreativeBlockScene.unity
+    guid: 4b1815de1d1ae164289118f5fc49259d
+  - enabled: 1
+    path: Assets/Scenes/TipeCreativeBlockScene.unity
+    guid: 1da60c991d589ac4dba8bce1ab05ff51
+  - enabled: 1
+    path: Assets/Scenes/BeforeQuizScene.unity
+    guid: d1c6290362480064e80c3116676912e6
+  - enabled: 1
+    path: Assets/Scenes/QuizScene.unity
+    guid: 878b6a48560b50f40aebfa47a2ef6a28
+  - enabled: 1
+    path: Assets/Scenes/CharacterScene.unity
+    guid: 62066e2cbeeecc74782d711b6fec6746
+  - enabled: 1
+    path: Assets/Scenes/SaranScene.unity
+    guid: 09ff734be5b04594596fdb1b4cae3f9e
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 3240305a9345e254eb0129b58aa605f8
+  m_configObjects: {}
